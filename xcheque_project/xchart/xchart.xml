@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content">
+	<name>Content - Xchart</name>
+	<author>bernie</author>
+	<creationDate>May 2012</creationDate>
+	<copyright>(C) xcheque.com. All Rights Reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>admin@xcheque.com</authorEmail>
+	<authorUrl>www.xcheque.com</authorUrl>
+	<version>2.5.11</version>
+	<description>This plugin allows you to insert a chart into a content item</description>
+	<files>
+		<filename plugin="xchart">xchart.php</filename>
+	</files>
+</extension>
+
